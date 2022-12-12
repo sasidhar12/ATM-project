@@ -199,9 +199,9 @@ else:
   
 
 
-# 
 
-# In[28]:
+
+/*
 
 
 atm.print_mini_statement()
@@ -235,25 +235,19 @@ atm.withdraw()
 atm.user['Account balance'][0]
 
 
-# In[ ]:
-
-
-
-
-
-# In[185]:
-
 
 atm.update_transactions()
-
-
-# In[26]:
-
 
 atm.print_mini_statement()
 
 
-# In[ ]:
+
+
+
+
+*/
+
+
 
 
 
